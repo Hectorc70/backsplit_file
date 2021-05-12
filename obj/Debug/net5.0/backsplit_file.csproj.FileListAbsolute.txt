@@ -1,0 +1,16 @@
+C:\PROYECTOS\backsplit_file\bin\Debug\net5.0\backsplit_file.exe
+C:\PROYECTOS\backsplit_file\bin\Debug\net5.0\backsplit_file.deps.json
+C:\PROYECTOS\backsplit_file\bin\Debug\net5.0\backsplit_file.runtimeconfig.json
+C:\PROYECTOS\backsplit_file\bin\Debug\net5.0\backsplit_file.runtimeconfig.dev.json
+C:\PROYECTOS\backsplit_file\bin\Debug\net5.0\backsplit_file.dll
+C:\PROYECTOS\backsplit_file\bin\Debug\net5.0\ref\backsplit_file.dll
+C:\PROYECTOS\backsplit_file\bin\Debug\net5.0\backsplit_file.pdb
+C:\PROYECTOS\backsplit_file\obj\Debug\net5.0\backsplit_file.csprojAssemblyReference.cache
+C:\PROYECTOS\backsplit_file\obj\Debug\net5.0\backsplit_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\backsplit_file\obj\Debug\net5.0\backsplit_file.AssemblyInfoInputs.cache
+C:\PROYECTOS\backsplit_file\obj\Debug\net5.0\backsplit_file.AssemblyInfo.cs
+C:\PROYECTOS\backsplit_file\obj\Debug\net5.0\backsplit_file.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\backsplit_file\obj\Debug\net5.0\backsplit_file.dll
+C:\PROYECTOS\backsplit_file\obj\Debug\net5.0\ref\backsplit_file.dll
+C:\PROYECTOS\backsplit_file\obj\Debug\net5.0\backsplit_file.pdb
+C:\PROYECTOS\backsplit_file\obj\Debug\net5.0\backsplit_file.genruntimeconfig.cache
